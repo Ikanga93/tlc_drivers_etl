@@ -98,3 +98,8 @@
 [2024-07-05T21:26:21.540+0000] {logging_mixin.py:188} INFO - [2024-07-05T21:26:21.540+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_newtlcdrivers.py
 [2024-07-05T21:26:21.546+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_newtlcdrivers.py
 [2024-07-05T21:26:21.571+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_newtlcdrivers.py took 0.046 seconds
+[2024-07-05T21:26:52.028+0000] {processor.py:161} INFO - Started process (PID=2855) to work on /opt/airflow/dags/ny_newtlcdrivers.py
+[2024-07-05T21:26:52.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_newtlcdrivers.py for tasks to queue
+[2024-07-05T21:26:52.033+0000] {logging_mixin.py:188} INFO - [2024-07-05T21:26:52.032+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_newtlcdrivers.py
+[2024-07-05T21:26:52.040+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_newtlcdrivers.py
+[2024-07-05T21:26:52.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_newtlcdrivers.py took 0.048 seconds
