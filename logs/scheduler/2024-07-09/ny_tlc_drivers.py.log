@@ -2279,3 +2279,59 @@ Traceback (most recent call last):
 ModuleNotFoundError: No module named 'tasks'
 [2024-07-09T15:17:37.847+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
 [2024-07-09T15:17:37.919+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.136 seconds
+[2024-07-09T15:18:08.159+0000] {processor.py:161} INFO - Started process (PID=6130) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:18:08.163+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T15:18:08.169+0000] {logging_mixin.py:188} INFO - [2024-07-09T15:18:08.168+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:18:08.181+0000] {logging_mixin.py:188} INFO - [2024-07-09T15:18:08.178+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 2, in <module>
+    from tasks import extract, transform, load
+ModuleNotFoundError: No module named 'tasks'
+[2024-07-09T15:18:08.182+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:18:08.236+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.088 seconds
+[2024-07-09T15:18:38.871+0000] {processor.py:161} INFO - Started process (PID=6189) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:18:38.880+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T15:18:38.902+0000] {logging_mixin.py:188} INFO - [2024-07-09T15:18:38.896+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:18:39.016+0000] {logging_mixin.py:188} INFO - [2024-07-09T15:18:39.003+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 2, in <module>
+    from tasks import extract, transform, load
+ModuleNotFoundError: No module named 'tasks'
+[2024-07-09T15:18:39.036+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:18:39.166+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.318 seconds
+[2024-07-09T15:19:09.650+0000] {processor.py:161} INFO - Started process (PID=6247) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:19:09.653+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T15:19:09.656+0000] {logging_mixin.py:188} INFO - [2024-07-09T15:19:09.655+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:19:09.671+0000] {logging_mixin.py:188} INFO - [2024-07-09T15:19:09.669+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 2, in <module>
+    from tasks import extract, transform, load
+ModuleNotFoundError: No module named 'tasks'
+[2024-07-09T15:19:09.672+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:19:09.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.100 seconds
+[2024-07-09T15:19:40.709+0000] {processor.py:161} INFO - Started process (PID=6306) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:19:40.711+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T15:19:40.715+0000] {logging_mixin.py:188} INFO - [2024-07-09T15:19:40.715+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:19:40.744+0000] {logging_mixin.py:188} INFO - [2024-07-09T15:19:40.739+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 2, in <module>
+    from tasks import extract, transform, load
+ModuleNotFoundError: No module named 'tasks'
+[2024-07-09T15:19:40.746+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T15:19:40.819+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.126 seconds
