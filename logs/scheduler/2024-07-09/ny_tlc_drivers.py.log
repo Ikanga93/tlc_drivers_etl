@@ -1,0 +1,980 @@
+[2024-07-09T13:45:41.343+0000] {processor.py:161} INFO - Started process (PID=39) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:45:41.360+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:45:41.404+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:45:41.398+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:45:41.444+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:45:41.751+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.516 seconds
+[2024-07-09T13:46:55.040+0000] {processor.py:161} INFO - Started process (PID=103) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:46:55.043+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:46:55.047+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:46:55.046+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:46:55.057+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:46:55.100+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.074 seconds
+[2024-07-09T13:47:27.116+0000] {processor.py:161} INFO - Started process (PID=151) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:47:27.121+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:47:27.128+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:47:27.127+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:47:27.211+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:47:27.254+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.154 seconds
+[2024-07-09T13:47:59.082+0000] {processor.py:161} INFO - Started process (PID=209) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:47:59.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:47:59.092+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:47:59.091+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:47:59.106+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:47:59.158+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.098 seconds
+[2024-07-09T13:48:29.416+0000] {processor.py:161} INFO - Started process (PID=266) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:48:29.418+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:48:29.423+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:48:29.422+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:48:29.432+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:48:29.469+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.067 seconds
+[2024-07-09T13:48:59.838+0000] {processor.py:161} INFO - Started process (PID=321) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:48:59.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:48:59.845+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:48:59.845+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:48:59.854+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:48:59.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.058 seconds
+[2024-07-09T13:49:30.300+0000] {processor.py:161} INFO - Started process (PID=380) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:49:30.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:49:30.306+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:49:30.306+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:49:30.313+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:49:30.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.043 seconds
+[2024-07-09T13:50:00.608+0000] {processor.py:161} INFO - Started process (PID=438) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:50:00.613+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:50:00.617+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:50:00.617+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:50:00.626+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:50:00.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.071 seconds
+[2024-07-09T13:50:30.858+0000] {processor.py:161} INFO - Started process (PID=498) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:50:30.861+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:50:30.864+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:50:30.864+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:50:30.873+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:50:30.902+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.054 seconds
+[2024-07-09T13:51:00.968+0000] {processor.py:161} INFO - Started process (PID=556) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:51:00.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:51:00.982+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:51:00.979+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:51:00.991+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:51:01.054+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.100 seconds
+[2024-07-09T13:51:31.379+0000] {processor.py:161} INFO - Started process (PID=612) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:51:31.383+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:51:31.388+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:51:31.387+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:51:31.396+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:51:31.433+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.066 seconds
+[2024-07-09T13:52:01.787+0000] {processor.py:161} INFO - Started process (PID=665) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:52:01.813+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:52:01.830+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:52:01.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:52:01.845+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:52:01.879+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.124 seconds
+[2024-07-09T13:52:32.240+0000] {processor.py:161} INFO - Started process (PID=723) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:52:32.242+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:52:32.249+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:52:32.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:52:32.264+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:52:32.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.202 seconds
+[2024-07-09T13:53:03.709+0000] {processor.py:161} INFO - Started process (PID=781) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:53:03.712+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:53:03.721+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:53:03.720+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:53:03.758+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:53:03.870+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.198 seconds
+[2024-07-09T13:53:34.401+0000] {processor.py:161} INFO - Started process (PID=838) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:53:34.403+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:53:34.408+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:53:34.407+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:53:34.446+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:53:34.481+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.094 seconds
+[2024-07-09T13:54:05.206+0000] {processor.py:161} INFO - Started process (PID=896) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:54:05.209+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:54:05.214+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:54:05.214+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:54:05.228+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:54:05.281+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.092 seconds
+[2024-07-09T13:54:36.011+0000] {processor.py:161} INFO - Started process (PID=956) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:54:36.012+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:54:36.016+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:54:36.015+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:54:36.026+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:54:36.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.062 seconds
+[2024-07-09T13:55:06.872+0000] {processor.py:161} INFO - Started process (PID=1015) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:55:06.877+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:55:06.891+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:55:06.890+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:55:06.923+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:55:06.984+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.151 seconds
+[2024-07-09T13:55:37.617+0000] {processor.py:161} INFO - Started process (PID=1074) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:55:37.626+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:55:37.637+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:55:37.635+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:55:37.651+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:55:37.711+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.144 seconds
+[2024-07-09T13:56:08.063+0000] {processor.py:161} INFO - Started process (PID=1132) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:56:08.091+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:56:08.104+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:56:08.101+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:56:08.173+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:56:08.261+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.275 seconds
+[2024-07-09T13:56:38.921+0000] {processor.py:161} INFO - Started process (PID=1198) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:56:38.923+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:56:38.928+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:56:38.927+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:56:38.937+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:56:38.970+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.067 seconds
+[2024-07-09T13:57:09.922+0000] {processor.py:161} INFO - Started process (PID=1257) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:57:09.938+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:57:10.014+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:57:10.013+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:57:10.112+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:57:10.279+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.436 seconds
+[2024-07-09T13:57:41.170+0000] {processor.py:161} INFO - Started process (PID=1316) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:57:41.172+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:57:41.175+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:57:41.174+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:57:41.181+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:57:41.211+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.053 seconds
+[2024-07-09T13:58:11.727+0000] {processor.py:161} INFO - Started process (PID=1375) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:58:11.730+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:58:11.736+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:58:11.734+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:58:11.752+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:58:11.789+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.073 seconds
+[2024-07-09T13:58:42.042+0000] {processor.py:161} INFO - Started process (PID=1434) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:58:42.044+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:58:42.047+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:58:42.047+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:58:42.054+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:58:42.084+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.051 seconds
+[2024-07-09T13:59:12.123+0000] {processor.py:161} INFO - Started process (PID=1493) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:59:12.126+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:59:12.129+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:59:12.129+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:59:12.135+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:59:12.158+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.044 seconds
+[2024-07-09T13:59:42.376+0000] {processor.py:161} INFO - Started process (PID=1552) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:59:42.377+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T13:59:42.382+0000] {logging_mixin.py:188} INFO - [2024-07-09T13:59:42.381+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:59:42.391+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T13:59:42.423+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.058 seconds
+[2024-07-09T14:00:12.879+0000] {processor.py:161} INFO - Started process (PID=1611) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:00:12.881+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:00:12.884+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:00:12.883+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:00:12.891+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:00:12.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.047 seconds
+[2024-07-09T14:00:43.015+0000] {processor.py:161} INFO - Started process (PID=1670) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:00:43.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:00:43.021+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:00:43.020+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:00:43.027+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:00:43.050+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.044 seconds
+[2024-07-09T14:01:13.498+0000] {processor.py:161} INFO - Started process (PID=1729) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:01:13.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:01:13.503+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:01:13.502+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:01:13.509+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:01:13.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.040 seconds
+[2024-07-09T14:01:43.723+0000] {processor.py:161} INFO - Started process (PID=1788) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:01:43.725+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:01:43.730+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:01:43.729+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:01:43.739+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:01:43.764+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.055 seconds
+[2024-07-09T14:02:13.821+0000] {processor.py:161} INFO - Started process (PID=1847) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:02:13.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:02:13.826+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:02:13.826+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:02:13.832+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:02:13.858+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.046 seconds
+[2024-07-09T14:02:44.522+0000] {processor.py:161} INFO - Started process (PID=1903) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:02:44.524+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:02:44.529+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:02:44.528+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:02:44.537+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:02:44.578+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.086 seconds
+[2024-07-09T14:03:14.693+0000] {processor.py:161} INFO - Started process (PID=1962) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:03:14.699+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:03:14.705+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:03:14.704+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:03:14.713+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:03:14.736+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.056 seconds
+[2024-07-09T14:03:45.456+0000] {processor.py:161} INFO - Started process (PID=2021) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:03:45.457+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:03:45.464+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:03:45.463+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:03:45.473+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:03:45.497+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.060 seconds
+[2024-07-09T14:04:16.713+0000] {processor.py:161} INFO - Started process (PID=2080) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:04:16.716+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:04:16.761+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:04:16.749+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:04:16.955+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:04:16.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.295 seconds
+[2024-07-09T14:04:47.288+0000] {processor.py:161} INFO - Started process (PID=2138) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:04:47.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:04:47.307+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:04:47.300+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:04:47.391+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:04:47.515+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.250 seconds
+[2024-07-09T14:05:17.926+0000] {processor.py:161} INFO - Started process (PID=2197) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:05:17.928+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:05:17.940+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:05:17.939+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:05:17.947+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:05:17.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.089 seconds
+[2024-07-09T14:05:48.906+0000] {processor.py:161} INFO - Started process (PID=2255) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:05:48.908+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:05:48.919+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:05:48.914+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:05:48.931+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:05:48.986+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.089 seconds
+[2024-07-09T14:06:19.470+0000] {processor.py:161} INFO - Started process (PID=2314) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:06:19.471+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:06:19.476+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:06:19.474+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:06:19.489+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:06:19.523+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.065 seconds
+[2024-07-09T14:06:49.691+0000] {processor.py:161} INFO - Started process (PID=2373) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:06:49.693+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:06:49.698+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:06:49.697+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:06:49.705+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:06:49.742+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.079 seconds
+[2024-07-09T14:07:20.717+0000] {processor.py:161} INFO - Started process (PID=2426) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:07:20.721+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:07:20.731+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:07:20.730+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:07:20.772+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:07:20.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.242 seconds
+[2024-07-09T14:07:51.264+0000] {processor.py:161} INFO - Started process (PID=2483) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:07:51.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:07:51.270+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:07:51.269+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:07:51.279+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:07:51.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.055 seconds
+[2024-07-09T14:08:22.070+0000] {processor.py:161} INFO - Started process (PID=2541) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:08:22.072+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:08:22.086+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:08:22.085+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:08:22.094+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:08:22.130+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.080 seconds
+[2024-07-09T14:08:52.223+0000] {processor.py:161} INFO - Started process (PID=2599) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:08:52.225+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:08:52.231+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:08:52.229+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:08:52.245+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:08:52.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.080 seconds
+[2024-07-09T14:09:22.363+0000] {processor.py:161} INFO - Started process (PID=2656) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:09:22.365+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:09:22.377+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:09:22.376+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:09:22.386+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:09:22.425+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.079 seconds
+[2024-07-09T14:09:52.724+0000] {processor.py:161} INFO - Started process (PID=2715) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:09:52.726+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:09:52.730+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:09:52.729+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:09:52.738+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:09:52.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.086 seconds
+[2024-07-09T14:10:23.128+0000] {processor.py:161} INFO - Started process (PID=2774) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:10:23.129+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:10:23.132+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:10:23.132+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:10:23.142+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:10:23.172+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.057 seconds
+[2024-07-09T14:10:54.554+0000] {processor.py:161} INFO - Started process (PID=2833) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:10:54.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:10:54.562+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:10:54.560+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:10:54.594+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:10:54.752+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.234 seconds
+[2024-07-09T14:11:25.036+0000] {processor.py:161} INFO - Started process (PID=2889) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:11:25.038+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:11:25.045+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:11:25.044+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:11:25.052+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:11:25.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.060 seconds
+[2024-07-09T14:11:55.460+0000] {processor.py:161} INFO - Started process (PID=2948) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:11:55.467+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:11:55.473+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:11:55.473+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:11:55.491+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:11:55.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.090 seconds
+[2024-07-09T14:12:26.182+0000] {processor.py:161} INFO - Started process (PID=3007) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:12:26.185+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:12:26.234+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:12:26.230+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:12:26.304+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:12:26.571+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.405 seconds
+[2024-07-09T14:12:57.386+0000] {processor.py:161} INFO - Started process (PID=3066) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:12:57.388+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:12:57.404+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:12:57.404+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:12:57.423+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:12:57.483+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.126 seconds
+[2024-07-09T14:13:27.649+0000] {processor.py:161} INFO - Started process (PID=3125) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:13:27.651+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:13:27.657+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:13:27.657+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:13:27.667+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:13:27.706+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.073 seconds
+[2024-07-09T14:13:58.396+0000] {processor.py:161} INFO - Started process (PID=3184) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:13:58.398+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:13:58.402+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:13:58.402+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:13:58.409+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:13:58.431+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.045 seconds
+[2024-07-09T14:14:29.023+0000] {processor.py:161} INFO - Started process (PID=3243) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:14:29.025+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:14:29.029+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:14:29.028+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:14:29.036+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:14:29.070+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.064 seconds
+[2024-07-09T14:14:59.406+0000] {processor.py:161} INFO - Started process (PID=3302) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:14:59.410+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:14:59.414+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:14:59.413+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:14:59.428+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:14:59.455+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.076 seconds
+[2024-07-09T14:15:29.538+0000] {processor.py:161} INFO - Started process (PID=3359) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:15:29.540+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:15:29.543+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:15:29.543+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:15:29.551+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:15:29.585+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.057 seconds
+[2024-07-09T14:23:52.870+0000] {processor.py:161} INFO - Started process (PID=35) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:23:52.877+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:23:52.881+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:23:52.880+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:23:52.891+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:23:52.925+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.069 seconds
+[2024-07-09T14:25:04.584+0000] {processor.py:161} INFO - Started process (PID=30) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:25:04.588+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:25:04.594+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:25:04.594+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:25:04.602+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:25:04.642+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.074 seconds
+[2024-07-09T14:25:35.547+0000] {processor.py:161} INFO - Started process (PID=89) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:25:35.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:25:35.563+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:25:35.559+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:25:35.571+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:25:35.614+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.111 seconds
+[2024-07-09T14:26:05.863+0000] {processor.py:161} INFO - Started process (PID=148) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:26:05.864+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:26:05.868+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:26:05.868+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:26:05.875+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:26:05.897+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.044 seconds
+[2024-07-09T14:26:36.030+0000] {processor.py:161} INFO - Started process (PID=207) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:26:36.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:26:36.035+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:26:36.035+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:26:36.042+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:26:36.066+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.046 seconds
+[2024-07-09T14:27:06.240+0000] {processor.py:161} INFO - Started process (PID=266) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:27:06.242+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:27:06.245+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:27:06.244+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:27:06.252+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:27:06.276+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.046 seconds
+[2024-07-09T14:27:36.937+0000] {processor.py:161} INFO - Started process (PID=324) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:27:36.939+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:27:36.945+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:27:36.945+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:27:36.953+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:27:37.004+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.080 seconds
+[2024-07-09T14:28:07.341+0000] {processor.py:161} INFO - Started process (PID=383) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:28:07.344+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:28:07.349+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:28:07.348+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:28:07.356+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:28:07.414+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.086 seconds
+[2024-07-09T14:28:37.746+0000] {processor.py:161} INFO - Started process (PID=442) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:28:37.748+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:28:37.752+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:28:37.751+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:28:37.760+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:28:37.830+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.102 seconds
+[2024-07-09T14:29:08.156+0000] {processor.py:161} INFO - Started process (PID=501) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:29:08.158+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:29:08.160+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:29:08.160+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:29:08.166+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:29:08.188+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.042 seconds
+[2024-07-09T14:29:38.438+0000] {processor.py:161} INFO - Started process (PID=560) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:29:38.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:29:38.442+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:29:38.442+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:29:38.448+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:29:38.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.039 seconds
+[2024-07-09T14:30:08.900+0000] {processor.py:161} INFO - Started process (PID=619) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:30:08.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:30:08.905+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:30:08.905+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:30:08.911+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:30:08.933+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.041 seconds
+[2024-07-09T14:30:39.737+0000] {processor.py:161} INFO - Started process (PID=678) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:30:39.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:30:39.743+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:30:39.742+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:30:39.750+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:30:39.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.042 seconds
+[2024-07-09T14:31:10.585+0000] {processor.py:161} INFO - Started process (PID=737) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:31:10.590+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:31:10.598+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:31:10.597+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:31:10.612+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:31:10.649+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.076 seconds
+[2024-07-09T14:31:41.078+0000] {processor.py:161} INFO - Started process (PID=796) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:31:41.081+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:31:41.086+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:31:41.086+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:31:41.103+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:31:41.138+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.071 seconds
+[2024-07-09T14:32:11.953+0000] {processor.py:161} INFO - Started process (PID=855) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:32:11.955+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:32:11.961+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:32:11.959+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:32:11.969+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:32:11.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.060 seconds
+[2024-07-09T14:32:42.069+0000] {processor.py:161} INFO - Started process (PID=914) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:32:42.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:32:42.074+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:32:42.074+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:32:42.081+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:32:42.109+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.053 seconds
+[2024-07-09T14:33:12.596+0000] {processor.py:161} INFO - Started process (PID=973) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:33:12.598+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:33:12.601+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:33:12.601+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:33:12.608+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:33:12.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.047 seconds
+[2024-07-09T14:33:43.209+0000] {processor.py:161} INFO - Started process (PID=1032) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:33:43.210+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:33:43.215+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:33:43.214+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:33:43.222+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:33:43.253+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.062 seconds
+[2024-07-09T14:34:13.459+0000] {processor.py:161} INFO - Started process (PID=1091) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:34:13.468+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:34:13.476+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:34:13.473+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:34:13.503+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:34:13.549+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.108 seconds
+[2024-07-09T14:34:43.722+0000] {processor.py:161} INFO - Started process (PID=1149) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:34:43.740+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:34:43.751+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:34:43.750+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:34:43.762+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:34:43.817+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.126 seconds
+[2024-07-09T14:35:14.030+0000] {processor.py:161} INFO - Started process (PID=1206) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:35:14.032+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:35:14.036+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:35:14.035+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:35:14.046+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:35:14.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.075 seconds
+[2024-07-09T14:35:45.020+0000] {processor.py:161} INFO - Started process (PID=1264) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:35:45.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:35:45.028+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:35:45.027+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:35:45.037+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:35:45.089+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.095 seconds
+[2024-07-09T14:36:15.566+0000] {processor.py:161} INFO - Started process (PID=1322) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:36:15.569+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:36:15.573+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:36:15.573+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:36:15.581+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:36:15.623+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.076 seconds
+[2024-07-09T14:36:48.026+0000] {processor.py:161} INFO - Started process (PID=1375) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:36:48.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:36:48.051+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:36:48.050+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:36:49.172+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:36:49.642+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 1.690 seconds
+[2024-07-09T14:37:20.387+0000] {processor.py:161} INFO - Started process (PID=1433) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:37:20.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:37:20.394+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:37:20.393+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:37:20.400+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:37:20.428+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.051 seconds
+[2024-07-09T14:37:50.669+0000] {processor.py:161} INFO - Started process (PID=1492) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:37:50.672+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:37:50.677+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:37:50.677+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:37:50.689+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:37:50.725+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.069 seconds
+[2024-07-09T14:38:22.527+0000] {processor.py:161} INFO - Started process (PID=1557) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:38:22.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:38:22.539+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:38:22.538+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:38:22.544+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:38:22.585+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.067 seconds
+[2024-07-09T14:38:52.838+0000] {processor.py:161} INFO - Started process (PID=1613) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:38:52.843+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:38:52.856+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:38:52.854+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:38:52.915+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:38:53.098+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.295 seconds
+[2024-07-09T14:39:23.942+0000] {processor.py:161} INFO - Started process (PID=1671) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:23.952+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:39:23.969+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:23.967+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:23.998+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:24.059+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.192 seconds
+[2024-07-09T14:39:26.284+0000] {processor.py:161} INFO - Started process (PID=1675) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:26.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:39:26.322+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:26.314+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:26.403+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:26.377+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:39:26.443+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:26.602+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.360 seconds
+[2024-07-09T14:39:34.639+0000] {processor.py:161} INFO - Started process (PID=1686) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:34.641+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:39:34.645+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:34.645+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:34.747+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:34.702+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:39:34.777+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:35.000+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.379 seconds
+[2024-07-09T14:39:36.840+0000] {processor.py:161} INFO - Started process (PID=1693) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:36.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:39:36.846+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:36.846+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:36.912+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:36.887+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:39:36.927+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:36.974+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.149 seconds
+[2024-07-09T14:39:40.936+0000] {processor.py:161} INFO - Started process (PID=1698) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:40.938+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:39:40.943+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:40.942+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:40.997+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:40.967+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:39:41.016+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:41.146+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.223 seconds
+[2024-07-09T14:39:45.884+0000] {processor.py:161} INFO - Started process (PID=1711) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:45.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:39:45.893+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:45.892+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:45.937+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:45.919+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:39:45.948+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:45.995+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.124 seconds
+[2024-07-09T14:39:49.592+0000] {processor.py:161} INFO - Started process (PID=1719) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:49.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:39:49.617+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:49.601+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:49.859+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:49.736+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:39:49.916+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:50.023+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.596 seconds
+[2024-07-09T14:39:59.556+0000] {processor.py:161} INFO - Started process (PID=1739) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:59.562+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:39:59.570+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:59.569+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:59.641+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:39:59.605+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:39:59.656+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:39:59.701+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.188 seconds
+[2024-07-09T14:40:04.404+0000] {processor.py:161} INFO - Started process (PID=1744) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:40:04.553+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:40:04.591+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:40:04.590+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:40:04.992+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:40:04.899+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:40:05.059+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:40:05.177+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 1.156 seconds
+[2024-07-09T14:40:35.292+0000] {processor.py:161} INFO - Started process (PID=1803) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:40:35.294+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:40:35.303+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:40:35.297+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:40:35.331+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:40:35.320+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:40:35.348+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:40:35.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.112 seconds
+[2024-07-09T14:41:05.818+0000] {processor.py:161} INFO - Started process (PID=1862) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:41:05.820+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:41:05.824+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:41:05.823+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:41:05.868+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:41:05.850+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:41:05.880+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:41:05.925+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.119 seconds
+[2024-07-09T14:41:36.461+0000] {processor.py:161} INFO - Started process (PID=1919) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:41:36.464+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:41:36.469+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:41:36.468+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:41:36.528+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:41:36.500+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:41:36.568+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:41:36.632+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.197 seconds
+[2024-07-09T14:42:06.730+0000] {processor.py:161} INFO - Started process (PID=1979) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:42:06.732+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:42:06.737+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:42:06.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:42:06.764+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:42:06.749+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:42:06.774+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:42:06.814+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.099 seconds
+[2024-07-09T14:42:28.719+0000] {processor.py:161} INFO - Started process (PID=2021) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:42:28.748+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:42:28.774+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:42:28.773+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:42:29.181+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:42:29.104+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:42:29.220+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:42:29.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 1.104 seconds
+[2024-07-09T14:43:00.367+0000] {processor.py:161} INFO - Started process (PID=2079) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:43:00.372+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:43:00.376+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:43:00.376+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:43:00.414+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:43:00.394+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:43:00.427+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:43:00.464+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.135 seconds
+[2024-07-09T14:43:31.231+0000] {processor.py:161} INFO - Started process (PID=2138) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:43:31.235+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:43:31.238+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:43:31.238+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:43:31.268+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:43:31.255+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:43:31.278+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:43:31.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.115 seconds
+[2024-07-09T14:44:02.036+0000] {processor.py:161} INFO - Started process (PID=2197) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:44:02.038+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:44:02.042+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:44:02.041+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:44:02.085+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:44:02.065+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:44:02.099+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:44:02.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.152 seconds
+[2024-07-09T14:44:32.735+0000] {processor.py:161} INFO - Started process (PID=2256) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:44:32.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:44:32.744+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:44:32.743+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:44:32.803+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:44:32.780+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:44:32.825+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:44:32.890+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.175 seconds
+[2024-07-09T14:45:03.075+0000] {processor.py:161} INFO - Started process (PID=2315) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:45:03.080+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:45:03.086+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:45:03.085+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:45:03.117+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:45:03.105+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:45:03.132+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:45:03.172+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.119 seconds
+[2024-07-09T14:45:33.729+0000] {processor.py:161} INFO - Started process (PID=2374) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:45:33.731+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:45:33.735+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:45:33.735+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:45:33.766+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:45:33.755+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 15, in <module>
+    python_callable=extract_task,
+                    ^^^^^^^^^^^^
+NameError: name 'extract_task' is not defined
+[2024-07-09T14:45:33.780+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:45:33.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.109 seconds
+[2024-07-09T14:45:41.426+0000] {processor.py:161} INFO - Started process (PID=2386) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:45:41.430+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:45:41.437+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:45:41.435+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:45:41.466+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:45:41.465+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7
+    from extract import 
+                        ^
+SyntaxError: invalid syntax
+[2024-07-09T14:45:41.467+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:45:41.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.305 seconds
+[2024-07-09T14:46:01.224+0000] {processor.py:161} INFO - Started process (PID=2431) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:01.226+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:46:01.229+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:46:01.228+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:01.241+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:46:01.239+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:46:01.243+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:01.282+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.071 seconds
+[2024-07-09T14:46:04.965+0000] {processor.py:161} INFO - Started process (PID=2436) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:04.967+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:46:04.971+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:46:04.969+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:04.990+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:46:04.986+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:46:04.992+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:05.038+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.087 seconds
+[2024-07-09T14:46:35.692+0000] {processor.py:161} INFO - Started process (PID=2493) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:35.694+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:46:35.697+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:46:35.696+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:35.708+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:46:35.705+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:46:35.709+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:35.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.075 seconds
+[2024-07-09T14:46:45.938+0000] {processor.py:161} INFO - Started process (PID=2513) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:45.941+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:46:45.944+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:46:45.944+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:45.963+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:46:45.961+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from taskextract import extract_data
+ModuleNotFoundError: No module named 'taskextract'
+[2024-07-09T14:46:45.965+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:46.002+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.074 seconds
+[2024-07-09T14:46:48.167+0000] {processor.py:161} INFO - Started process (PID=2521) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:48.173+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:46:48.179+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:46:48.178+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:48.206+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:46:48.194+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from tasks.extract import extract_data
+ModuleNotFoundError: No module named 'tasks'
+[2024-07-09T14:46:48.227+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:46:48.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.183 seconds
+[2024-07-09T14:47:18.387+0000] {processor.py:161} INFO - Started process (PID=2578) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:47:18.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:47:18.393+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:47:18.392+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:47:18.419+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:47:18.416+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from tasks.extract import extract_data
+ModuleNotFoundError: No module named 'tasks'
+[2024-07-09T14:47:18.420+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:47:18.472+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.099 seconds
+[2024-07-09T14:47:41.370+0000] {processor.py:161} INFO - Started process (PID=2614) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:47:41.402+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:47:41.420+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:47:41.419+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:47:41.523+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:47:41.515+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:47:41.526+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:47:41.579+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.223 seconds
+[2024-07-09T14:48:12.310+0000] {processor.py:161} INFO - Started process (PID=2673) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:48:12.318+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:48:12.326+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:48:12.323+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:48:12.350+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:48:12.347+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:48:12.364+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:48:12.796+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.499 seconds
+[2024-07-09T14:48:43.068+0000] {processor.py:161} INFO - Started process (PID=2732) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:48:43.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:48:43.073+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:48:43.072+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:48:43.085+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:48:43.082+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:48:43.087+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:48:43.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.067 seconds
+[2024-07-09T14:49:13.356+0000] {processor.py:161} INFO - Started process (PID=2791) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:49:13.362+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:49:13.369+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:49:13.368+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:49:13.380+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:49:13.378+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:49:13.382+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:49:13.427+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.088 seconds
+[2024-07-09T14:49:44.274+0000] {processor.py:161} INFO - Started process (PID=2850) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:49:44.279+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:49:44.288+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:49:44.287+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:49:44.303+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:49:44.299+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:49:44.305+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:49:44.345+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.087 seconds
+[2024-07-09T14:50:14.670+0000] {processor.py:161} INFO - Started process (PID=2908) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:50:14.679+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:50:14.685+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:50:14.684+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:50:14.702+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:50:14.699+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:50:14.704+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:50:14.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.102 seconds
+[2024-07-09T14:50:44.853+0000] {processor.py:161} INFO - Started process (PID=2967) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:50:44.855+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:50:44.858+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:50:44.858+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:50:44.870+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:50:44.867+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:50:44.871+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:50:44.906+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.064 seconds
+[2024-07-09T14:51:15.185+0000] {processor.py:161} INFO - Started process (PID=3026) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:51:15.187+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:51:15.191+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:51:15.190+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:51:15.201+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:51:15.198+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:51:15.203+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:51:15.246+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.073 seconds
+[2024-07-09T14:51:45.726+0000] {processor.py:161} INFO - Started process (PID=3084) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:51:45.728+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:51:45.733+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:51:45.732+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:51:45.747+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:51:45.743+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:51:45.749+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:51:45.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.076 seconds
+[2024-07-09T14:52:16.146+0000] {processor.py:161} INFO - Started process (PID=3144) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:52:16.149+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:52:16.177+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:52:16.176+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:52:16.231+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:52:16.224+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:52:16.261+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:52:16.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.314 seconds
+[2024-07-09T14:52:47.365+0000] {processor.py:161} INFO - Started process (PID=3203) to work on /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:52:47.367+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ny_tlc_drivers.py for tasks to queue
+[2024-07-09T14:52:47.371+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:52:47.371+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:52:47.384+0000] {logging_mixin.py:188} INFO - [2024-07-09T14:52:47.380+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/ny_tlc_drivers.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/ny_tlc_drivers.py", line 7, in <module>
+    from extract import extract_data
+ModuleNotFoundError: No module named 'extract'
+[2024-07-09T14:52:47.386+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ny_tlc_drivers.py
+[2024-07-09T14:52:47.422+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ny_tlc_drivers.py took 0.066 seconds
