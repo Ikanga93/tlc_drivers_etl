@@ -1,19 +1,20 @@
 # Import necessary libraries and modules
-import pandas as pd
+import json
 from sodapy import Socrata
+from config import load_config
 
-# Data url
-url_api = 'data.cityofnewyork.us'
-# App token for the api
-app_token = '3n24PhVfrGN0jpYvSlbkFd7M3'
+# Load the configuration file
+config = load_config("/Users/jbshome/Desktop/tlc_drivers_etl/configurations/config.json")
 
 # Function to extract data
-def extract():
-    client = Socrata(url_api,
-                    app_token,
-                    username='ekuke003@gmail.com',
-                    password='D2racine4ac#')
+def extract_data(*args):
+    #config = load_config("/Users/jbshome/Desktop/tlc_drivers_etl/configurations/config.json", "r")
+    client = Socrata(*args)
 
     results = client.get('dpec-ucu7', limit=3621)
-    results_df = pd.DataFrame.from_records(results)
-    return results_df
+    # df = pd.DataFrame.from_records(results)
+    return results
+
+if __name__ == "__main__":
+    extracted_data = extract_data(config["tlc_api_url"] , config["tlc_app_token"], config["tlc_username"], config["tlc_password"])
+    print(extracted_data)
