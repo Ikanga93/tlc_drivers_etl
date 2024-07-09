@@ -1,12 +1,12 @@
 # Import necessary libraries and modules
 from extract import extract_data
+from config import load_config
 import pandas as pd
 import json
 
 # Function to transform the extracted data
 def transform_data(data):
     # Convert the json_data to a pandas dataframe
-    # json_data = json.load(data)
     df = pd.DataFrame(data)
     # logging.info('Data transformed successfuly')
 
@@ -23,12 +23,16 @@ def transform_data(data):
                 'defensive_driving', 
                 'driver_exam', 
                 'medical_clearance_form'], axis=1)
-    print(df)            
+               
     # Configure pandas to display all rows and columns
     pd.set_option('display.max_rows', None)
     pd.set_option('display.max_columns', None)
     pd.set_option('display.width', None)
     pd.set_option('display.max_colwidth', None)
                 
-    return data
+    return df
 
+if __name__ == "__main__":
+    config = load_config("/Users/jbshome/Desktop/tlc_drivers_etl/configurations/config.json")
+    extracted_data = extract_data()
+    transformed_data = transform_data(extracted_data)
