@@ -36,3 +36,4 @@ if __name__ == "__main__":
     config = load_config("/Users/jbshome/Desktop/tlc_drivers_etl/configurations/config.json")
     extracted_data = extract_data()
     transformed_data = transform_data(extracted_data)
+    print(transformed_data)

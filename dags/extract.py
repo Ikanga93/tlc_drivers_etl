@@ -15,3 +15,4 @@ def extract_data():
 
 if __name__ == "__main__":
     extracted_data = extract_data()
+    print(extracted_data)

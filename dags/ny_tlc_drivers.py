@@ -14,15 +14,15 @@ with DAG(dag_id="ny_tlc_drivers_app", start_date=datetime(2024, 1, 1),
         schedule_interval="@daily", catchup=False) as dag:
 
         extract_task = PythonOperator(
-                task_id="extract_task",
+                task_id="extract",
                 python_callable=extract_data
                 # op_args={api_url}
         )
 
         transform_task = PythonOperator(
-                task_id="transform_task",
+                task_id="transform",
                 python_callable=transform_data,
-                op_args=['{{ ti.xcom_pull(task_ids="extract_task") }}']
+                op_args=['{{ ti.xcom_pull(task_ids="extract") }}']
         )
 '''
         load_task = PythonOperator(
