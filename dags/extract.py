@@ -10,7 +10,7 @@ config = load_config("/Users/jbshome/Desktop/tlc_drivers_etl/configurations/conf
 def extract_data():
     client = Socrata(config["tlc_api_url"] , config["tlc_app_token"], config["tlc_username"], config["tlc_password"])
 
-    results = client.get('dpec-ucu7', limit=3621)
+    results = client.get('dpec-ucu7', limit=4000)
     return results
 
 if __name__ == "__main__":

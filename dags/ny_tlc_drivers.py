@@ -24,6 +24,8 @@ with DAG(dag_id="ny_tlc_drivers_app", start_date=datetime(2024, 1, 1),
                 python_callable=transform_data,
                 op_args=['{{ ti.xcom_pull(task_ids="extract") }}']
         )
+
+        extract_task >> transform_task
 '''
         load_task = PythonOperator(
                 task_id="load_task",
@@ -45,6 +47,4 @@ with DAG(dag_id="ny_tlc_drivers_app", start_date=datetime(2024, 1, 1),
                         primary key app_no
                 """
         )
-
-        extract_task >> transform_task >> load_task
 '''

@@ -2,10 +2,10 @@
 set -e
 
 # Run the first script 
-pyhton extract.py
+python /Users/jbshome/Desktop/tlc_drivers_etl/dags/extract.py
 
 # Run the second script 
-pyhton transform.py
+python /Users/jbshome/Desktop/tlc_drivers_etl/dags/transform.py
 
 # Run the third script 
-pyhton load.py
+python /Users/jbshome/Desktop/tlc_drivers_etl/dags/load.py
