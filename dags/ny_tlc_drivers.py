@@ -15,7 +15,7 @@ with DAG(dag_id="ny_tlc_drivers_app", start_date=datetime(2024, 1, 1),
 
         extract_task = PythonOperator(
                 task_id="extract_data",
-                python_callable=extract_data,
+                python_callable=extract_data
         )
 
         transform_task = PythonOperator(

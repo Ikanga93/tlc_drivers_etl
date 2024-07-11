@@ -1,0 +1,1 @@
+[2024-07-11T14:17:31.658+0000] {scheduler_job_runner.py:769} ERROR - Executor reports task instance <TaskInstance: ny_tlc_drivers_app.extract_data manual__2024-07-11T14:17:08.299818+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
