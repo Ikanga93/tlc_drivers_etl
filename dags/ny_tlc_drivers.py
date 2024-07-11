@@ -14,22 +14,22 @@ with DAG(dag_id="ny_tlc_drivers_app", start_date=datetime(2024, 1, 1),
         schedule_interval="@daily", catchup=False) as dag:
 
         extract_task = PythonOperator(
-                task_id="extract",
+                task_id="extract_data",
                 python_callable=extract_data,
-                # op_args={'https://data.cityofnewyork.us/resource/dpec-ucu7.json?$$app_token==3n24PhVfrGN0jpYvSlbkFd7M3'}
         )
 
         transform_task = PythonOperator(
-                task_id="transform",
+                task_id="transform_data",
                 python_callable=transform_data,
-                op_args=['{{ ti.xcom_pull(task_ids="extract") }}']
+                op_kwargs={"data": "{{ ti.xcom_pull(task_ids='extract') }}"}
         )
 
         extract_task >> transform_task
 '''
-        load_task = PythonOperator(
-                task_id="load_task",
-                python_callable=load_data,
+        load_task = PostgresOperator(
+                task_id="load_data",
+                postgres_conn_id='postgres_conn' ,
+
                 op_args=['{{ ti.xcom_pull(task_ids="transform_task") }}']
         )
 
