@@ -15,8 +15,8 @@ with DAG(dag_id="ny_tlc_drivers_app", start_date=datetime(2024, 1, 1),
 
         extract_task = PythonOperator(
                 task_id="extract",
-                python_callable=extract_data
-                # op_args={api_url}
+                python_callable=extract_data,
+                # op_args={'https://data.cityofnewyork.us/resource/dpec-ucu7.json?$$app_token==3n24PhVfrGN0jpYvSlbkFd7M3'}
         )
 
         transform_task = PythonOperator(
